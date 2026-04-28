@@ -355,6 +355,7 @@ dependencies = [
     { name = "jupyter" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "pearsonr" },
     { name = "scikit-learn" },
     { name = "seaborn" },
 ]
@@ -365,6 +366,7 @@ requires-dist = [
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "pandas", specifier = ">=3.0.1" },
+    { name = "pearsonr", specifier = ">=0.1.0" },
     { name = "scikit-learn", specifier = ">=1.8.0" },
     { name = "seaborn", specifier = ">=0.13.2" },
 ]
@@ -1308,6 +1310,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/81/76/a1e769043c0c0c9fe391b702539d594731a4362334cdf4dc25d0c09761e7/parso-0.8.6.tar.gz", hash = "sha256:2b9a0332696df97d454fa67b81618fd69c35a7b90327cbe6ba5c92d2c68a7bfd", size = 401621, upload-time = "2026-02-09T15:45:24.425Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/b6/61/fae042894f4296ec49e3f193aff5d7c18440da9e48102c3315e1bc4519a7/parso-0.8.6-py2.py3-none-any.whl", hash = "sha256:2c549f800b70a5c4952197248825584cb00f033b29c692671d3bf08bf380baff", size = 106894, upload-time = "2026-02-09T15:45:21.391Z" },
+]
+
+[[package]]
+name = "pearsonr"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/2b/d7/e702d63b04d6cb80d7adf17785dc2ff5fcdc05d766c6e3ea329c5c78d77f/pearsonr-0.1.0.tar.gz", hash = "sha256:becae1fcaef658c227eba97948bfbdbfbccb3ade403244b27b1c99606f998b6d", size = 3154, upload-time = "2021-03-13T20:08:16.805Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2e/0f/5e1bc06026aa2985ca22fbcca9be3b5530936619c8716be39971f45b17d0/pearsonr-0.1.0-py3-none-any.whl", hash = "sha256:d154009f4bbefb741054b64832b7f2b4dfa7c772c7ea5b7557de28e5c7c8cb02", size = 4076, upload-time = "2021-03-13T20:08:15.59Z" },
 ]
 
 [[package]]
