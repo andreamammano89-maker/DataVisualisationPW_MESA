@@ -41,7 +41,7 @@ These files are embedded in the live WordPress site through the Custom HTML bloc
 
 The five Tableau dashboards are published on Tableau Public and embedded in the website. They can also be accessed directly through the Tableau Public workbook:
 
-**Workbook:** Cartella2_17774709061460
+**Workbook:** [Tableau public workbook](https://public.tableau.com/views/Cartella2_17774709061460/ExplanatoryView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The individual views are:
 - ExplanatoryView
@@ -49,6 +49,8 @@ The individual views are:
 - ProfessionalHostConcentrationRomevsCopenhagen
 - UPIDashboard
 - PricevsUrbanPressurebyNeighbourhood
+
+You can slide through the individual views in the top menubar.
 
 ---
 
