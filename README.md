@@ -1,4 +1,4 @@
-# DaAirbnb Market Structures: Rome vs. Copenhagen
+# Airbnb Market Structures: Rome vs. Copenhagen
 Data Visualisation PW. Group: MESA. Year 2025/2026
 
 ---
