@@ -7,7 +7,7 @@ Data Visualisation PW. Group: MESA. Year 2025/2026
 
 The project is hosted online and does not require any local setup to view. All visualisations, interactive components, and findings are accessible through the website.
 
-**Website:** [romevscopenhagen.wordpress.com](romevscopenhagen.wordpress.com)
+**Website:** [romevscopenhagen.wordpress.com](https://romevscopenhagen.wpcomstaging.com)
 
 ---
 
