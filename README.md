@@ -47,7 +47,7 @@ The five Tableau dashboards are published on Tableau Public and embedded in the 
 
 The individual views are:
 - [ExplanatoryView](https://public.tableau.com/app/profile/andrea.mammano/viz/Cartella2_17774709061460/ExplanatoryDashboard)
-- [NeighbourhoodRanking](https://public.tableau.com/views/Cartella2_17774709061460/NeighbourhoodRankingdashboard?:embed=yes&:display_count=no&:showVizHome=no&:toolbar=no)
+- [NeighbourhoodRanking](https://public.tableau.com/app/profile/andrea.mammano/viz/Cartella2_17774709061460/NeighbourhoodRankingdashboard)
 - [ProfessionalHostConcentrationRomevsCopenhagen](https://public.tableau.com/views/Cartella2_17774709061460/ProfessionalHostConcentrationRomevsCopenhagen)
 - [UPIDashboard](https://public.tableau.com/views/Cartella2_17774709061460/UPIDashboard)
 - [PricevsUrbanPressurebyNeighbourhood](https://public.tableau.com/app/profile/andrea.mammano/viz/Cartella2_17774709061460/PricevsUrbanPressurebyNeighbourhooddash)
