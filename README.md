@@ -46,11 +46,11 @@ These files are embedded in the live WordPress site through the Custom HTML bloc
 The five Tableau dashboards are published on Tableau Public and embedded in the website. They can also be accessed directly through the Tableau Public links:
 
 The individual views are:
-- [ExplanatoryView](https://public.tableau.com/views/Cartella2_17774709061460/ExplanatoryView)
-- [NeighbourhoodRanking](https://public.tableau.com/views/Cartella2_17774709061460/NeighbourhoodRanking)
+- [ExplanatoryView](https://public.tableau.com/app/profile/andrea.mammano/viz/Cartella2_17774709061460/ExplanatoryDashboard)
+- [NeighbourhoodRanking](https://public.tableau.com/views/Cartella2_17774709061460/NeighbourhoodRankingdashboard?:embed=yes&:display_count=no&:showVizHome=no&:toolbar=no)
 - [ProfessionalHostConcentrationRomevsCopenhagen](https://public.tableau.com/views/Cartella2_17774709061460/ProfessionalHostConcentrationRomevsCopenhagen)
 - [UPIDashboard](https://public.tableau.com/views/Cartella2_17774709061460/UPIDashboard)
-- [PricevsUrbanPressurebyNeighbourhood](https://public.tableau.com/views/Cartella2_17774709061460/PricevsUrbanPressurebyNeighbourhood)
+- [PricevsUrbanPressurebyNeighbourhood](https://public.tableau.com/app/profile/andrea.mammano/viz/Cartella2_17774709061460/PricevsUrbanPressurebyNeighbourhooddash)
 
 ---
 
